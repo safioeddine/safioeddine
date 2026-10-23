@@ -1,43 +1,18 @@
 # Hi, I'm Safi Eddine
 
-I'm a first-year student in Fkih Ben Salah, Morocco. I'm studying for a DUT in
-Informatique Décisionnelle et Statistique (IDS) at the EST — basically computer
-science with a lot of maths and statistics.
+I'm a first-year DUT student in Informatique Décisionnelle et Statistique (IDS)
+at EST Fkih Ben Salah, Morocco — computer science with a lot of maths and statistics.
 
-I opened this account to keep my school projects in one place and watch myself
-progress over the two years of the DUT. Most of what you'll find here started
-as coursework.
+# 💫 About Me:
+🔭 I’m currently working on: Building small projects for my DUT courses, semester by semester<br>👯 I’m looking to collaborate on: Student projects in C, web basics, or data/statistics<br>🌱 I’m currently learning: Python and databases (MySQL)<br>💬 Ask me about: C, HTML/CSS, data and statistics
 
-## What I'm learning right now
 
-This semester is mostly foundations:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safio.eddine09@gmail.com) 
 
-- C and algorithms — my first real programming, we write a lot of small programs
-- HTML/CSS — building my first web pages
-- Computer architecture — how a computer works inside, binary, logic circuits
-- Networks and mathematics
-
-Next I should get into Python and databases, which is the part I'm waiting for,
-because that's where the statistics side of my degree really starts.
-
-## Projects for this semester
-
-- My first portfolio page in HTML/CSS
-- A small program that converts numbers between decimal, binary and hexadecimal
-  (it comes straight from what we do in architecture class)
-- A grades manager in C, using arrays and files
-
-I'll add the rest as I go, semester by semester. The end goal is a final-year
-project (PFE) around data: a small decision dashboard with a database behind it.
-That's still far away for now.
-
-## Tools I use
-
-C, HTML, CSS, Git/GitHub, VS Code. That's honestly it for the moment —
-the list will grow with the courses.
-
-## Contact
-
-Email: safio.eddine09@gmail.com
-
-If you're a student at EST Fkih Ben Salah too, feel free to say hi.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=safioeddine&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=safioeddine&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=safioeddine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
